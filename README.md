@@ -12,10 +12,21 @@
 ## Features
 
 * Aim Assistance
-  *   test
+  * Smooth
+  * Fov Circle
+  * Target Line
+  * Target Window (shit)
 * Visuals
+  * Box
+  * Filled Box
+  * Line
+  * Name 
 * Settings
+  * Accent Color
+  * Gui Size
+  * Gui Position 
  
+## Showcase
 
 ## Disclaimer
 
