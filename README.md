@@ -2,14 +2,14 @@
 
 **An external cheat base on assault cube that uses d2d.**
 
-## Informations
+## Informations:
 
 * The cheat works only on version v1.2.0.2 of assault cube.
 * The rendering library used for the esp and the different parts of the gui is [d2d].
 * Requirement : C++20 && C18 && V143
 * Contact : fell#2724 
 
-## Features
+## Features:
 
 * Aim Assistance
   * Smooth
@@ -28,9 +28,9 @@
 
 **There are other features but I'm too lazy to list them all.** 
 
-## Showcase
+## Pictures:
 
-## Disclaimer
+## Disclaimer:
 
 Cathack is for educational purposes only!
 
