@@ -1,5 +1,5 @@
 # cathack
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![standard-readme compliant](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++)](https://github.com/xfell)
 
 An external cheat base on assault cube that uses d2d
 
