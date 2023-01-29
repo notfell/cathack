@@ -34,8 +34,8 @@
 
 ## Pictures:
 
-**gui:**
 ![image](https://user-images.githubusercontent.com/88662570/215320760-755c501d-f002-46eb-a148-b94c5d451fdf.png)
+![image](https://user-images.githubusercontent.com/88662570/215321867-7dddca29-4f68-4555-84be-010c7a399f83.png)
 
 
 ## Disclaimer:
