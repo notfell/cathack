@@ -25,6 +25,7 @@
   * Accent Color
   * Gui Size
   * Gui Position 
+
 ```there are other things but I am lazy```   
 
 ## Showcase
