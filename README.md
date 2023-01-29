@@ -5,7 +5,7 @@
 ## Informations
 
 * The cheat works only on version v1.2.0.2 of assault cube.
-* The gui is made with [d2d library].
+* The gui and esp is made with the ["d2d" rendering library.] 
 * Languague : C++ 
 * Contact : fell#2724 
 
@@ -15,4 +15,4 @@ Cathack is for educational purposes only!
 
 Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.
 
-[d2d library]: https://github.com/coltonon/D2DOverlay
+["d2d" rendering library.]: https://github.com/coltonon/D2DOverlay
