@@ -5,7 +5,7 @@
 ## Informations
 
 * The cheat works only on version v1.2.0.2 of assault cube.
-* The gui is made with the [d2d library ](#(https://github.com/coltonon/D2DOverlay))
+* The gui is made with [d2d library]. [d2d library]: https://github.com/coltonon/D2DOverlay
 * Languague : C++ 
 * Contact : fell#2724 
 
