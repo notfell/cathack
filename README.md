@@ -1,5 +1,9 @@
 ![cathack text](https://user-images.githubusercontent.com/88662570/215319126-253b5d67-040e-48fb-834c-7dc4c0a11083.png)
 
+[![C++](https://img.shields.io/badge/Language-C%2B%2B-%23f34b7d.svg?style=flat)](https://en.wikipedia.org/wiki/C%2B%2B) 
+[![Windows](https://img.shields.io/badge/Platform-Windows-0078d7.svg?style=flat)](https://en.wikipedia.org/wiki/Microsoft_Windows) 
+[![x64 &](https://img.shields.io/badge/Arch-x64-green.svg?style=flat)](https://en.wikipedia.org/wiki/X64) 
+
 **An external cheat base on assault cube that uses d2d.**
 
 ## Informations:
