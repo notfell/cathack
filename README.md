@@ -30,9 +30,10 @@
 
 ## Pictures:
 
-**Cmd:**
+**gui:**
 
 <img src="[https://github.com/favicon.ico](https://user-images.githubusercontent.com/88662570/215320616-d19f1fe4-a21d-4f6a-8cde-24a1907b5856.png)" width="48">
+![image](https://user-images.githubusercontent.com/88662570/215320760-755c501d-f002-46eb-a148-b94c5d451fdf.png)
 
 
 ## Disclaimer:
