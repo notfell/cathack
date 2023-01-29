@@ -1,6 +1,6 @@
-![cathack no text](https://user-images.githubusercontent.com/88662570/215319079-a5196986-6b71-4252-b5d1-b2ed75d1da37.png)
+![cathack text](https://user-images.githubusercontent.com/88662570/215319126-253b5d67-040e-48fb-834c-7dc4c0a11083.png)
 
-An external cheat base on assault cube that uses d2d.
+**An external cheat base on assault cube that uses d2d.**
 
 ## Disclaimer
 
