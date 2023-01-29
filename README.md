@@ -26,7 +26,7 @@
   * Gui Size
   * Gui Position 
 
-```there are other things but I am lazy```   
+```There are other features but I'm too lazy to list them all.```   
 
 ## Showcase
 
