@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="gui">
+      <UniqueIdentifier>{43e5c1cc-910b-4006-aef9-3a65025ffff8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gui\components">
+      <UniqueIdentifier>{c5ed5607-ff02-43e4-85a1-347941c8dcd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="main">
+      <UniqueIdentifier>{85a76514-74da-45ac-a56e-c7155ce7858f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="proc">
+      <UniqueIdentifier>{2ec48518-f1b9-48a7-b923-9332dc1b67f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mem">
+      <UniqueIdentifier>{33da06c7-89d0-4b40-b8d1-9af93a74be71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="modules">
+      <UniqueIdentifier>{2f175ea2-6784-476b-a8e4-a2ebe86341d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="modules\aim">
+      <UniqueIdentifier>{0d31900b-cb6c-4ab1-85ad-ca679d40af0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="modules\visuals">
+      <UniqueIdentifier>{f1dd0870-c122-447e-8cbe-8e537faedb00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="modules\misc">
+      <UniqueIdentifier>{92a76816-9029-46ac-8963-354a3580a2df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="utils">
+      <UniqueIdentifier>{8487eb25-5f3e-401b-a1c8-e5fad4e66605}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cli">
+      <UniqueIdentifier>{e008ca3f-c46a-4eff-8af6-bfc294a0c6a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="d2doverlay">
+      <UniqueIdentifier>{c7844b77-35c7-4610-8941-b1047b094424}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="d2doverlay\libs">
+      <UniqueIdentifier>{89a642f3-52b7-4092-a407-37941fa588a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="d2doverlay\includes">
+      <UniqueIdentifier>{1be6b27a-b7cf-49b4-bb5a-31b928bc0935}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="game">
+      <UniqueIdentifier>{23bf3d52-f5da-4f43-9bdb-18dd85557f1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="game\entity">
+      <UniqueIdentifier>{fd404673-227b-446c-ab29-edf77284c0d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="game\world">
+      <UniqueIdentifier>{1508c67b-10e5-4738-8cb7-65d3ab5c7bb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="auth">
+      <UniqueIdentifier>{4e8d7e41-b54c-41d8-93e8-8081cf31a39f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="protect">
+      <UniqueIdentifier>{b7096f14-268f-4996-ad3a-173762e993fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="discord">
+      <UniqueIdentifier>{0438b5bd-1247-477c-8eeb-9f8be71a4c81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="discord\src">
+      <UniqueIdentifier>{d9c4ea1c-3d0b-4216-bac3-26584171fc80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="discord\include">
+      <UniqueIdentifier>{8e47d486-40d5-45d8-ac3e-4b510cf8ec12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="discord\src\rapidjson">
+      <UniqueIdentifier>{63248fb7-59e0-46c4-b9d2-4ae94d0c5e8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="discord\src\rapidjson\error">
+      <UniqueIdentifier>{8f75c1a6-5b76-4b31-8884-e118008b6a8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="discord\src\rapidjson\internal">
+      <UniqueIdentifier>{36b4a649-6a9e-4c28-a3b6-b0a35ad316fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="discord\src\rapidjson\msinttypes">
+      <UniqueIdentifier>{4ef03803-7fff-481b-b301-242f8fac02fb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\cli\cli.cpp">
+      <Filter>cli</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\game.cpp">
+      <Filter>game</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\entity\entity.cpp">
+      <Filter>game\entity</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game\world\world.cpp">
+      <Filter>game\world</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\gui.cpp">
+      <Filter>gui</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\components\components.cpp">
+      <Filter>gui\components</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main\main.cpp">
+      <Filter>main</Filter>
+    </ClCompile>
+    <ClCompile Include="src\mem\mem.cpp">
+      <Filter>mem</Filter>
+    </ClCompile>
+    <ClCompile Include="src\modules\modules.cpp">
+      <Filter>modules</Filter>
+    </ClCompile>
+    <ClCompile Include="src\modules\aim\aim.cpp">
+      <Filter>modules\aim</Filter>
+    </ClCompile>
+    <ClCompile Include="src\modules\misc\misc.cpp">
+      <Filter>modules\misc</Filter>
+    </ClCompile>
+    <ClCompile Include="src\modules\visuals\visuals.cpp">
+      <Filter>modules\visuals</Filter>
+    </ClCompile>
+    <ClCompile Include="src\proc\proc.cpp">
+      <Filter>proc</Filter>
+    </ClCompile>
+    <ClCompile Include="src\utils\utils.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="src\discord\src\connection_win.cpp">
+      <Filter>discord\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\discord\src\discord_register_win.cpp">
+      <Filter>discord\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\discord\src\discord_rpc.cpp">
+      <Filter>discord\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\discord\src\dllmain.cpp">
+      <Filter>discord\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\discord\src\rpc_connection.cpp">
+      <Filter>discord\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\discord\src\serialization.cpp">
+      <Filter>discord\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\discord\discord.cpp">
+      <Filter>discord</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\all.h" />
+    <ClInclude Include="src\structs.h" />
+    <ClInclude Include="src\cli\cli.h">
+      <Filter>cli</Filter>
+    </ClInclude>
+    <ClInclude Include="src\d2doverlay\includes\DirectOverlay.h">
+      <Filter>d2doverlay\includes</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\entity\entity.h">
+      <Filter>game\entity</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\world\world.h">
+      <Filter>game\world</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game\game.h">
+      <Filter>game</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\gui.h">
+      <Filter>gui</Filter>
+    </ClInclude>
+    <ClInclude Include="src\gui\components\components.h">
+      <Filter>gui\components</Filter>
+    </ClInclude>
+    <ClInclude Include="src\main\main.h">
+      <Filter>main</Filter>
+    </ClInclude>
+    <ClInclude Include="src\mem\mem.h">
+      <Filter>mem</Filter>
+    </ClInclude>
+    <ClInclude Include="src\modules\modules.h">
+      <Filter>modules</Filter>
+    </ClInclude>
+    <ClInclude Include="src\modules\aim\aim.h">
+      <Filter>modules\aim</Filter>
+    </ClInclude>
+    <ClInclude Include="src\modules\misc\misc.h">
+      <Filter>modules\misc</Filter>
+    </ClInclude>
+    <ClInclude Include="src\modules\visuals\visuals.h">
+      <Filter>modules\visuals</Filter>
+    </ClInclude>
+    <ClInclude Include="src\proc\proc.h">
+      <Filter>proc</Filter>
+    </ClInclude>
+    <ClInclude Include="src\utils\utils.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\include\discord_register.h">
+      <Filter>discord\include</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\include\discord_rpc.h">
+      <Filter>discord\include</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\backoff.h">
+      <Filter>discord\src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\connection.h">
+      <Filter>discord\src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\msg_queue.h">
+      <Filter>discord\src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rpc_connection.h">
+      <Filter>discord\src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\serialization.h">
+      <Filter>discord\src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\allocators.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\cursorstreamwrapper.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\document.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\encodedstream.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\encodings.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\filereadstream.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\filewritestream.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\fwd.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\istreamwrapper.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\memorybuffer.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\memorystream.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\ostreamwrapper.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\pointer.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\prettywriter.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\rapidjson.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\reader.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\schema.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\stream.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\stringbuffer.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\writer.h">
+      <Filter>discord\src\rapidjson</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\error\en.h">
+      <Filter>discord\src\rapidjson\error</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\error\error.h">
+      <Filter>discord\src\rapidjson\error</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\internal\biginteger.h">
+      <Filter>discord\src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\internal\clzll.h">
+      <Filter>discord\src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\internal\diyfp.h">
+      <Filter>discord\src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\internal\dtoa.h">
+      <Filter>discord\src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\internal\ieee754.h">
+      <Filter>discord\src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\internal\itoa.h">
+      <Filter>discord\src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\internal\meta.h">
+      <Filter>discord\src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\internal\pow10.h">
+      <Filter>discord\src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\internal\regex.h">
+      <Filter>discord\src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\internal\stack.h">
+      <Filter>discord\src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\internal\strfunc.h">
+      <Filter>discord\src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\internal\strtod.h">
+      <Filter>discord\src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\internal\swap.h">
+      <Filter>discord\src\rapidjson\internal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\msinttypes\inttypes.h">
+      <Filter>discord\src\rapidjson\msinttypes</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\src\rapidjson\msinttypes\stdint.h">
+      <Filter>discord\src\rapidjson\msinttypes</Filter>
+    </ClInclude>
+    <ClInclude Include="src\discord\discord.h">
+      <Filter>discord</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="src\d2doverlay\libs\D2DOverlay.lib">
+      <Filter>d2doverlay\libs</Filter>
+    </Library>
+  </ItemGroup>
+</Project>
