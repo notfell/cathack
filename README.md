@@ -12,6 +12,8 @@
 * The rendering library used for the esp and the different parts of the gui is [d2d].
 * Requirement : C++20 && C18 && V143
 * Contact : fell#2724 
+* Special thanks : K3rhos
+
 
 ## Features:
 
