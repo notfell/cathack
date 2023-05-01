@@ -81,7 +81,7 @@
     <TargetName>cathack</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <IncludePath>C:\Users\juzo\Documents\aspen\cathack\base\external base\external_base\aspen external base\src\discord\include;C:\Users\juzo\Documents\aspen\cathack\base\external base\external_base\aspen external base\src\discord\src;$(IncludePath)</IncludePath>
+    <IncludePath>C:\Users\xfell\Bureau\all\Project\dev\cathack-main\external_base\aspen external base\src\discord\include</IncludePath>
     <TargetName>cathack</TargetName>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
@@ -157,7 +157,8 @@
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
       <LanguageStandard_C>stdc17</LanguageStandard_C>
-      <AdditionalIncludeDirectories>C:\Users\juzo\Documents\aspen\aspen external base\aspen external base\d2doverlay\libs;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)aspen external base\src\discord\include
+</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
